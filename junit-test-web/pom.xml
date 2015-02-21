@@ -16,7 +16,7 @@
 	<dependencies>
 		<dependency>
 			<groupId>junit.sjk</groupId>
-			<artifactId>junit-test-model</artifactId>
+			<artifactId>junit-test-core</artifactId>
 		</dependency>
 		
 		<!-- Spring dependencies -->
@@ -34,15 +34,6 @@
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-webmvc</artifactId>
 		</dependency>
-		<dependency>
-			<groupId>org.springframework.data</groupId>
-			<artifactId>spring-data-jpa</artifactId>
-		</dependency>
-		<dependency>
-			<groupId>org.hibernate</groupId>
-			<artifactId>hibernate-entitymanager</artifactId>
-		</dependency>
-
 
 		<dependency>
 			<groupId>mysql</groupId>
